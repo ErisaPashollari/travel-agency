@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     "django_extensions",
     # local apps
     "core",
+    "trips",
 ]
 
 MIDDLEWARE = [
